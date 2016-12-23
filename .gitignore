@@ -1,0 +1,7 @@
+# npm에서 설치한 패키즈를 무시함.
+node_modules
+
+# 그 밖에 .DS_Store(OS X)나 *.bak 등 필요 없는 파일은 
+# 무엇이든 추가하십시오.
+*~
+.DS_Store
